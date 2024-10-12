@@ -1,4 +1,4 @@
-ahmde: 0
-ali: 1
-mostfa: 1
-ranya: 0
+ali_elsayed_Alewa: Accepted
+mohamed_mohamed_maher: Wrong Answer
+mostfa_Ahmed_ebrahim: Compilation Error
+zyad_hany_mahmoud: Accepted
