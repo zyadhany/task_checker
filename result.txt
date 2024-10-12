@@ -1,0 +1,4 @@
+ahmde: 0
+ali: 1
+mostfa: 1
+ranya: 0
